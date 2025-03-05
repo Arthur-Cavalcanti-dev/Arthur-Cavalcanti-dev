@@ -1,7 +1,9 @@
 
 ### Bem-vindo!!
 
-#### Sobre
+#### Sobre 
+
+#### Olá, sou Arthur Cavalcanti, tenho 17 anos e estou cursando Engenharia de Software. Tenho experiência em desenvolvimento backend e conhecimento em frontend.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthur_felipe_a.c/)
 
