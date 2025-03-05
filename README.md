@@ -20,7 +20,7 @@ Atualmente, estou desenvolvendo um site inspirado no Pinterest, permitindo que o
 
 ## Tecnologias que eu uso no dia a dia
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Flask] (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git] (https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
