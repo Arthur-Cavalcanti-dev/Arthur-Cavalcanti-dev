@@ -26,5 +26,9 @@ Atualmente, estou desenvolvendo um site inspirado no Pinterest, permitindo que o
 
 ---
 
-# Em busca de inovação, evolução e impacto positivo através da programação 🌟
+## Entre em contato comigo
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581987229685)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antunescavalcantiarthurfelipe@gmail.com)
+
 
