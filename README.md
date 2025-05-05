@@ -5,7 +5,7 @@
 
 ## Sobre 
 
-Olá, sou Arthur Cavalcanti, tenho 17 anos e estou cursando Engenharia de Software. Tenho experiência em desenvolvimento backend e conhecimento em frontend.
+Olá! Me chamo Arthur Cavalcanti, tenho 17 anos e estou cursando Engenharia de Software. Tenho experiência em desenvolvimento back-end, com foco em Python e Flask. Também possuo noções básicas de front-end e estou familiarizado com ferramentas como o FileZilla — conhecimentos que venho aprimorando continuamente. Sou proativo, gosto de aprender na prática e estou sempre buscando evoluir por meio de projetos reais.
 
 ## Projetos
 
