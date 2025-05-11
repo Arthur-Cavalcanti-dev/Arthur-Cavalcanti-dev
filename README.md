@@ -9,8 +9,8 @@ Olá! Me chamo Arthur Cavalcanti, tenho 17 anos e estou cursando Engenharia de S
 
 ## Projetos
 
-### 📌 Plataforma de compartilhamento de imagens
-Atualmente, estou desenvolvendo um site inspirado no Pinterest, permitindo que os usuários compartilhem, organizem e descubram imagens de maneira intuitiva.
+### 📌 Posta Aqui
+Desenvolvi um site chamado PostaAqui, ele é uma plataforma web fácil de usar, onde os usuários podem compartilhar, explorar e baixar imagens de forma prática e intuitiva.
 
 ---
 
