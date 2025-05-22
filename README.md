@@ -5,7 +5,7 @@
 
 ## Sobre 
 
-Olá! Me chamo Arthur Cavalcanti, tenho 17 anos e estou cursando Engenharia de Software. Tenho experiência em desenvolvimento back-end, com foco em Python e Flask. Também possuo noções básicas de front-end e estou familiarizado com ferramentas como o FileZilla — conhecimentos que venho aprimorando continuamente. Sou proativo, gosto de aprender na prática e estou sempre buscando evoluir por meio de projetos reais.
+Olá! Me chamo Arthur Cavalcanti, tenho 17 anos e sou estudante de Engenharia de Software. Tenho experiência em desenvolvimento back-end, com foco em Python e Flask, além de conhecimento em bancos de dados relacionais como PostgreSQL, MySQL e SQLite, utilizando SQLAlchemy como ORM para integração e manipulação de dados em aplicações Python. Também possuo noções de front-end, que venho aprimorando constantemente na prática. Sou proativo, autodidata e estou sempre em busca de evolução por meio de projetos.
 
 ## Projetos
 
