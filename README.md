@@ -24,7 +24,7 @@ Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **P
 <table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
     <td style="text-align: center; vertical-align: middle; width: 40%;">
-      <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 700px; max-width: 100%;"/>
+      <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 710px; max-width: 100%;"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
 Site institucional desenvolvido com <b>Django</b> e <b>MySQL</b>, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais. Conta com design moderno, navegação intuitiva e vitrine digital para cardápio, história da marca e canais de contato.
