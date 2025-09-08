@@ -5,7 +5,7 @@
 
 ## Sobre 
 
-Olá! Me chamo Arthur Cavalcanti, tenho 17 anos e sou estudante de Engenharia de Software. Tenho experiência em desenvolvimento back-end, com foco em Python e Flask, além de conhecimento em bancos de dados relacionais como PostgreSQL, MySQL e SQLite, utilizando SQLAlchemy como ORM para integração e manipulação de dados em aplicações Python. Também possuo noções de front-end, que venho aprimorando constantemente na prática. Sou proativo, autodidata e estou sempre em busca de evolução por meio de projetos.
+Olá! Me chamo Arthur Cavalcanti, tenho 18 anos e sou estudante de Engenharia de Software. Atuo no desenvolvimento back-end, com foco em Python e frameworks como Django e Flask, além de trabalhar com bancos de dados relacionais (PostgreSQL, MySQL e SQLite), utilizando SQLAlchemy para integração e manipulação de dados. Também possuo experiência com bancos de dados NoSQL, especialmente MongoDB, aplicando boas práticas de modelagem e consultas otimizadas. Todo esse conhecimento venho aplicando em projetos práticos que já estão disponíveis para acesso, o que me proporciona constante aprendizado e evolução profissional.
 
 ## Projetos
 
