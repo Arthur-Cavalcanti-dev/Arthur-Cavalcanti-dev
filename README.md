@@ -23,31 +23,31 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 ## 🚀 Projetos em Destaque
 
 ### 🍰 Doceria da Jú
-<table>
+<table align="center" style="margin: 0 auto; width: 80%;">
   <tr>
-    <td width="60%">
-      Site institucional desenvolvido com <b>Django</b> e <b>MySQL</b>, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais.  
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="images/doceriadaju.png" alt="Doceria da Ju" style="width: 300px; max-width: 100%;"/>
+    </td>
+    <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
+      Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais.  
       Possui design moderno, navegação intuitiva e uma vitrine digital para exibir cardápio, história da marca e canais de contato.  
       <br>
-      🔗 <a href="https://doceriadaju.techimperium.com.br/pagina_inicial/">Acessar projeto</a>
-    </td>
-    <td width="40%" style="text-align: right; padding-left:10px;">
-      <img src="images/doceriadaju.png" alt="Doceria da Ju" style="width:300px; max-width:100%;"/>
+      🔗 [Acessar projeto](https://doceriadaju.techimperium.com.br/pagina_inicial/)
     </td>
   </tr>
 </table>
 
 ### 🚘 LuxCar Premium
-<table>
+<table align="center" style="margin: 0 auto; width: 80%;">
   <tr>
-    <td width="60%">
-      Plataforma institucional para exposição de veículos premium, desenvolvida com <b>Django</b>, <b>MySQL</b> e ferramentas Python.  
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 300px; max-width: 100%;"/>
+    </td>
+    <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
+      Plataforma institucional para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e ferramentas Python.  
       Inclui exibição dinâmica por categorias (elétrico, híbrido, luxo, sedan, pickup), simulação de financiamento, promoções e integração com WhatsApp.  
       <br>
-      🔗 <a href="https://luxcarpremiun.techimperium.com.br/">Acessar projeto</a>
-    </td>
-    <td>
-      <img src="images/luxcarpremium.png" alt="LuxCar Premium" width="300"/>
+      🔗 [Acessar projeto](https://luxcarpremiun.techimperium.com.br/)
     </td>
   </tr>
 </table>
