@@ -7,9 +7,7 @@
 ## 👨‍💻 Sobre Mim
 
 Olá! Sou **Arthur Cavalcanti**, tenho 18 anos e sou estudante de **Engenharia de Software**.  
-Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **Python** e frameworks como **Django** e **Flask**. Tenho experiência com **bancos de dados relacionais** (PostgreSQL, MySQL, SQLite) utilizando **SQLAlchemy** e também com **bancos NoSQL**, como **MongoDB**, aplicando boas práticas de modelagem e consultas otimizadas.  
-
-Meus projetos práticos, já em produção, refletem meu compromisso com aprendizado contínuo e evolução profissional.  
+Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **Python** e frameworks como **Django** e **Flask**. Tenho experiência com **bancos de dados relacionais** (PostgreSQL, MySQL, SQLite) utilizando **SQLAlchemy** e também com **bancos NoSQL**, como **MongoDB**, aplicando boas práticas de modelagem e consultas otimizadas. Meus projetos já está acessível para o público, tudo isso reflete meu compromisso com aprendizado contínuo e evolução profissional.  
 
 <p align="center">
     <a href="https://github.com/Arthur-Cavalcanti-dev?tab=followers">
