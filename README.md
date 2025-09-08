@@ -32,7 +32,7 @@ Conta com design moderno, navegação intuitiva e vitrine digital para cardápio
 🔗 [Acessar projeto](https://doceriadaju.techimperium.com.br/pagina_inicial/)  
 </td>
 <td>
-    <img src="https://via.placeholder.com/300x180.png?text=Print+Projeto" alt="Doceria da Ju" width="300"/>
+    <img src="doceriadaju.png" alt="Doceria da Ju" width="300"/>
 </td>
 </tr>
 </table>  
@@ -49,7 +49,7 @@ Inclui exibição dinâmica por categorias (elétrico, híbrido, luxo, sedan, pi
 🔗 [Acessar projeto](https://luxcarpremiun.techimperium.com.br/)  
 </td>
 <td>
-    <img src="https://via.placeholder.com/300x180.png?text=Print+Projeto" alt="LuxCar Premium" width="300"/>
+    <img src="luxcarpremium.png" alt="LuxCar Premium" width="300"/>
 </td>
 </tr>
 </table>  
