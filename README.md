@@ -41,7 +41,7 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 <table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
     <td style="text-align: center; vertical-align: middle; width: 40%;">
-      <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 400px; max-width: 100%;"/>
+      <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 800px; max-width: 100%;"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
       Plataforma institucional para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e ferramentas Python.  
