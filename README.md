@@ -74,14 +74,17 @@ Plataforma institucional para exposição de veículos premium, desenvolvida com
 
 ## 📫 Entre em Contato
 
-<p align="center">
+<p align="center" style="line-height: 0;">
   <a href="https://wa.me/5581987229685">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+         alt="WhatsApp" style="vertical-align: middle;"/>
   </a>
   <a href="https://instagram.com/arthur_felipe_a.c/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+         alt="Instagram" style="vertical-align: middle;"/>
   </a>
   <a href="mailto:antunescavalcantiarthurfelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Gmail" style="vertical-align: middle;"/>
   </a>
 </p>
