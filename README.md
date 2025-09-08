@@ -1,11 +1,29 @@
 
 ### 🧑🏻‍💻 Arthur Cavalcanti
 
+**`Desenvolvedora Back-end`**
 ---
 
 ## Sobre 
 
 Olá! Me chamo Arthur Cavalcanti, tenho 18 anos e sou estudante de Engenharia de Software. Atuo no desenvolvimento back-end, com foco em Python e frameworks como Django e Flask, além de trabalhar com bancos de dados relacionais (PostgreSQL, MySQL e SQLite), utilizando SQLAlchemy para integração e manipulação de dados. Também possuo experiência com bancos de dados NoSQL, especialmente MongoDB, aplicando boas práticas de modelagem e consultas otimizadas. Todo esse conhecimento venho aplicando em projetos práticos que já estão disponíveis para acesso, o que me proporciona constante aprendizado e evolução profissional.
+
+<p>
+    <a href="https://github.com/Arthur-Cavalcanti-dev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Arthur-Cavalcanti-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Arthur-Cavalcanti-dev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Arthur-Cavalcanti-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ## Projetos
 
