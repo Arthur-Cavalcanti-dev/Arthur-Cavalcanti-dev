@@ -74,17 +74,14 @@ Plataforma institucional para exposição de veículos premium, desenvolvida com
 
 ## 📫 Entre em Contato
 
-<p align="center" style="background-color: #1a1a1a; padding: 10px 0;">
-  <span style="color: white; font-size: 18px; margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/20/ffffff/mail.png" alt="Envelope" style="vertical-align: middle;"/> Entre em Contato
-  </span>
-  <a href="https://wa.me/5581987229685" style="background-color: #25D366; color: white; text-decoration: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">
-    <img src="https://img.icons8.com/fluency/16/ffffff/whatsapp.png" alt="WhatsApp" style="vertical-align: middle;"/> WhatsApp
+<p align="center">
+  <a href="https://wa.me/5581987229685">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://instagram.com/arthur_felipe_a.c/" style="background-color: #E4405F; color: white; text-decoration: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">
-    <img src="https://img.icons8.com/fluency/16/ffffff/instagram.png" alt="Instagram" style="vertical-align: middle;"/> Instagram
+  <a href="https://instagram.com/arthur_felipe_a.c/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:antunescavalcantiarthurfelipe@gmail.com" style="background-color: #D14836; color: white; text-decoration: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">
-    <img src="https://img.icons8.com/fluency/16/ffffff/mail.png" alt="Gmail" style="vertical-align: middle;"/> Gmail
+  <a href="mailto:antunescavalcantiarthurfelipe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
