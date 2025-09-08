@@ -7,15 +7,19 @@
 ## 👨‍💻 Sobre Mim
 
 Olá! Sou **Arthur Cavalcanti**, tenho 18 anos e sou estudante de **Engenharia de Software**.  
-Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **Python** e frameworks como **Django** e **Flask**. Tenho experiência com **bancos de dados relacionais** (PostgreSQL, MySQL, SQLite) utilizando **SQLAlchemy** e também com **bancos NoSQL**, como **MongoDB**, aplicando boas práticas de modelagem e consultas otimizadas.  
+Atuo como desenvolvedor **back-end**, com foco em **Python**, **Django** e **Flask**.  
 
-Meus projetos práticos, já em produção, refletem meu compromisso com aprendizado contínuo e evolução profissional.  
+Tenho experiência com:  
+- **Bancos de dados relacionais:** PostgreSQL, MySQL, SQLite (com **SQLAlchemy**).  
+- **Bancos NoSQL:** MongoDB, aplicando boas práticas de modelagem e consultas otimizadas.  
+
+Meus projetos em produção refletem meu compromisso com aprendizado contínuo e evolução profissional.  
 
 <p align="center">
-    <a href="https://github.com/Arthur-Cavalcanti-dev?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/followers/Arthur-Cavalcanti-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
+  <a href="https://github.com/Arthur-Cavalcanti-dev?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/Arthur-Cavalcanti-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -23,38 +27,30 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 ## 🚀 Projetos em Destaque
 
 ### 🍰 Doceria da Jú
-<table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle; width: 40%;">
-      <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 900px; max-width: 100%;"/>
-    </td>
-    <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
-      Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais.  
-      Possui design moderno, navegação intuitiva e uma vitrine digital para exibir cardápio, história da marca e canais de contato.  
-      <br>
-      🔗 [Acessar projeto](https://doceriadaju.techimperium.com.br/pagina_inicial/)
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 70%; max-width: 100%; border-radius: 8px;"/>
+</p>
+**Descrição:**  
+Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais.  
+Possui design moderno, navegação intuitiva e vitrine digital para exibir cardápio, história da marca e canais de contato.  
 
-### 🚘 LuxCar Premium
-<table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle; width: 40%;">
-      <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 700px; max-width: 100%;"/>
-    </td>
-    <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
-      Plataforma institucional para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e ferramentas Python.  
-      Inclui exibição dinâmica por categorias (elétrico, híbrido, luxo, sedan, pickup), simulação de financiamento, promoções e integração com WhatsApp.  
-      <br>
-      🔗 [Acessar projeto](https://luxcarpremiun.techimperium.com.br/)
-    </td>
-  </tr>
-</table>
+🔗 [Acessar projeto](https://doceriadaju.techimperium.com.br/pagina_inicial/)
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+### 🚘 LuxCar Premium
+<p align="center">
+  <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 70%; max-width: 100%; border-radius: 8px;"/>
+</p>
+**Descrição:**  
+Plataforma para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e Python.  
+Inclui exibição dinâmica por categorias, simulação de financiamento, promoções e integração com WhatsApp.  
+
+🔗 [Acessar projeto](https://luxcarpremiun.techimperium.com.br/)
+
+---
+
+## 🛠️ Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -68,7 +64,7 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Cavalcanti-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180"/>
@@ -77,7 +73,7 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Contato
 
 <p align="center">
   <a href="https://wa.me/5581987229685">
