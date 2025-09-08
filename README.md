@@ -31,8 +31,8 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
       <br>
       🔗 <a href="https://doceriadaju.techimperium.com.br/pagina_inicial/">Acessar projeto</a>
     </td>
-    <td margin-right:10px;">
-      <img src="images/doceriadaju.png" alt="Doceria da Ju" width="300"/>
+    <td width="40%" style="text-align: right; padding-left:10px;">
+      <img src="images/doceriadaju.png" alt="Doceria da Ju" style="width:300px; max-width:100%;"/>
     </td>
   </tr>
 </table>
