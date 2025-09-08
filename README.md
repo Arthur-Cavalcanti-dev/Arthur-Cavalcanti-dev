@@ -75,13 +75,13 @@ Plataforma institucional para exposição de veículos premium, desenvolvida com
 ## 📫 Entre em Contato
 
 <p align="center">
-  <a href="https://wa.me/5581987229685">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://instagram.com/arthur_felipe_a.c/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:antunescavalcantiarthurfelipe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <button onclick="window.location.href='https://wa.me/5581987229685'" style="background-color: #25D366; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="vertical-align: middle; height: 20px;"/> WhatsApp
+  </button>
+  <button onclick="window.location.href='https://instagram.com/arthur_felipe_a.c/'" style="background-color: #E4405F; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle; height: 20px;"/> Instagram
+  </button>
+  <button onclick="window.location.href='mailto:antunescavalcantiarthurfelipe@gmail.com'" style="background-color: #D14836; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle; height: 20px;"/> Gmail
+  </button>
 </p>
