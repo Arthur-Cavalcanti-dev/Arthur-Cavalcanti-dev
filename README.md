@@ -1,5 +1,5 @@
 
-### Bem-vindo!!
+### 🧑🏻‍💻 Arthur Cavalcanti
 
 ---
 
@@ -9,8 +9,11 @@ Olá! Me chamo Arthur Cavalcanti, tenho 18 anos e sou estudante de Engenharia de
 
 ## Projetos
 
-### 📌 Posta Aqui
-Desenvolvi um site chamado PostaAqui, ele é uma plataforma web fácil de usar, onde os usuários podem compartilhar, explorar e baixar imagens de forma prática e intuitiva.
+### 📌 Doceria da Jú
+Doceria da Jú — Site institucional desenvolvido com Django e MySQL, integrado a ferramentas do ecossistema Python para gerenciamento de produtos, pedidos e informações institucionais. O projeto une design moderno e navegação intuitiva, oferecendo uma vitrine digital otimizada para apresentação do cardápio, história da marca e canais de contato.
+
+### 📌 LuxCar Premium
+LuxCar Premium — Plataforma institucional desenvolvida com Django, MySQL e ferramentas do ecossistema Python, voltada para a seleção e exposição de veículos premium. O site oferece exibição dinâmica de estoques por categoria (elétrico, híbrido, luxo, sedan, pickup), com área de promotões (“Até 10 % de desconto”), filtros avançados para busca de modelos, simulação de financiamento e envio de propostas. A interface inclui formulário de contato integrado via WhatsApp, políticas (privacidade e termos), além de navegação clara e foco na experiência do usuário.
 
 ---
 
