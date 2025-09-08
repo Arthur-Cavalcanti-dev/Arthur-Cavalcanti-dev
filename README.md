@@ -22,6 +22,8 @@ Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **P
 
 # Projetos em Destaque
 
+# Projetos em Destaque
+
 ### 🍰 Doceria da Jú
 <table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
@@ -29,9 +31,9 @@ Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **P
       <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 900px; max-width: 100%;"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
-Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais. Conta com design moderno, navegação intuitiva e vitrine digital para cardápio, história da marca e canais de contato.
+Site institucional desenvolvido com <b>Django</b> e <b>MySQL</b>, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais. Conta com design moderno, navegação intuitiva e vitrine digital para cardápio, história da marca e canais de contato.
       <br>
-      🔗 [Acessar projeto](https://doceriadaju.techimperium.com.br/pagina_inicial/)
+      🔗 <a href="https://doceriadaju.techimperium.com.br/pagina_inicial/">Acessar projeto</a>
     </td>
   </tr>
 </table>
@@ -43,13 +45,12 @@ Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramen
       <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 700px; max-width: 100%;"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
-Plataforma institucional para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e ferramentas Python. Inclui exibição dinâmica por categorias (elétrico, híbrido, luxo, sedan, pickup), simulação de financiamento, promoções e integração com WhatsApp.
+Plataforma institucional para exposição de veículos premium, desenvolvida com <b>Django</b>, <b>MySQL</b> e ferramentas Python. Inclui exibição dinâmica por categorias (elétrico, híbrido, luxo, sedan, pickup), simulação de financiamento, promoções e integração com WhatsApp.
       <br>
-      🔗 [Acessar projeto](https://luxcarpremium.techimperium.com.br/)
+      🔗 <a href="https://luxcarpremium.techimperium.com.br/">Acessar projeto</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Linguagens e Tecnologias
