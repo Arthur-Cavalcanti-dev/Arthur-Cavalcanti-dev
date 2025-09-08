@@ -23,10 +23,10 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 ## 🚀 Projetos em Destaque
 
 ### 🍰 Doceria da Jú
-<table align="center" style="margin: 0 auto; width: 80%;">
+<table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="images/doceriadaju.png" alt="Doceria da Ju" style="width: 300px; max-width: 100%;"/>
+    <td style="text-align: center; vertical-align: middle; width: 40%;">
+      *[Imagem do projeto Doceria da Jú não disponível - insira URL válida]*
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
       Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais.  
@@ -38,10 +38,10 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 </table>
 
 ### 🚘 LuxCar Premium
-<table align="center" style="margin: 0 auto; width: 80%;">
+<table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="images/luxcarpremium.png" alt="LuxCar Premium" style="width: 300px; max-width: 100%;"/>
+    <td style="text-align: center; vertical-align: middle; width: 40%;">
+      *[Imagem do projeto LuxCar Premium não disponível - insira URL válida]*
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
       Plataforma institucional para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e ferramentas Python.  
