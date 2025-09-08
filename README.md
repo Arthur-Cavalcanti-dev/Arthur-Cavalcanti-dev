@@ -22,8 +22,6 @@ Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **P
 
 # Projetos em Destaque
 
-# Projetos em Destaque
-
 ### 🍰 Doceria da Jú
 <table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
