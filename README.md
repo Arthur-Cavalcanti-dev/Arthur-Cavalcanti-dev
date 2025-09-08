@@ -20,6 +20,8 @@ Apaixonado por tecnologia, atuo como desenvolvedor **back-end**, com foco em **P
 
 ## 🚀 Projetos em Destaque
 
+# Projetos em Destaque
+
 ### 🍰 Doceria da Jú
 <table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
@@ -43,7 +45,7 @@ Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramen
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
 Plataforma institucional para exposição de veículos premium, desenvolvida com **Django**, **MySQL** e ferramentas Python. Inclui exibição dinâmica por categorias (elétrico, híbrido, luxo, sedan, pickup), simulação de financiamento, promoções e integração com WhatsApp.
       <br>
-      🔗 [Acessar projeto](https://luxcarpremiun.techimperium.com.br/)
+      🔗 [Acessar projeto](https://luxcarpremium.techimperium.com.br/)
     </td>
   </tr>
 </table>
