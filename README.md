@@ -26,7 +26,7 @@ Meus projetos práticos, já em produção, refletem meu compromisso com aprendi
 <table align="center" style="margin: 0 auto; width: 80%; border: 1px solid #333; border-radius: 5px; background-color: #1a1a1a;">
   <tr>
     <td style="text-align: center; vertical-align: middle; width: 40%;">
-      <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 850px; max-width: 100%;"/>
+      <img src="images/doceriadaju.png" alt="Doceria da Jú" style="width: 900px; max-width: 100%;"/>
     </td>
     <td style="text-align: left; padding-left: 20px; vertical-align: middle; width: 60%;">
       Site institucional desenvolvido com **Django** e **MySQL**, integrado a ferramentas Python para gerenciamento de produtos, pedidos e informações institucionais.  
