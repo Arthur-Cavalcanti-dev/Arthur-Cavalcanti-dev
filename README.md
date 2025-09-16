@@ -66,7 +66,7 @@ Plataforma institucional para exposição de veículos premium, desenvolvida com
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Cavalcanti-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Cavalcanti-dev&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="180"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Cavalcanti-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Linguagens mais usadas" height="180"/>
 </p>
 
